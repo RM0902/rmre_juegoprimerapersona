@@ -1,0 +1,36 @@
+{
+    "lang": "es-SV",
+    "name": "Videojuego en primera persona",
+    "short_name": "Mata cuadros",
+    "description": "Debes exterminar a los sucios cubos. MUERTE AL CUBO, AL CUADRADO Y AL RECTANGULO",
+    "start_url": "./",
+    "background_color": "#000",
+    "theme_color": "#000",
+    "orientation": "any",
+    "display": "standalone",
+    "icons":
+    [
+        {
+            "src":"./media/icons/android/android-launchericon-192-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose":"any"
+        }
+    ],
+    "screenshots":[
+        {
+            "src":"./media/screenshoots/1920x913.png",
+            "sizes": "1920x913",
+            "type": "image/png",
+            "font_facto": "wide",
+            "label":"Vista del videojuego"
+        },
+        {
+            "src":"./media/screenshoots/11442x3206.png",
+            "sizes": "1442x3206",
+            "type": "image/png",
+            "font_facto": "narrow",
+            "label":"Vista del videojuego en movil"
+        }
+    ]
+}
